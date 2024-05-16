@@ -1,0 +1,76 @@
+﻿  Bullet.cpp
+  Camera.cpp
+  CircleCollider.cpp
+  Collider.cpp
+  CollisionDetection.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\CollisionDetection.cpp(60,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Damagable.cpp
+  Enemy.cpp
+  EnemySpawner.cpp
+  MainMenu.cpp
+  PhysicsManager.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\PhysicsManager.cpp(8,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Component.cpp
+  Game.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Game.cpp(171,29): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Game.cpp(171,22): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameObject.cpp
+  GameObjectManager.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\GameObjectManager.cpp(12,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\GameObjectManager.cpp(64,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GameScene.cpp
+  Input.cpp
+  main.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\main.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Math.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Math.cpp(30,19): warning C4305: 'return': truncation from 'double' to 'float'
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Math.cpp(34,19): warning C4305: 'return': truncation from 'double' to 'float'
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Math.cpp(60,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Math.cpp(60,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Player.cpp(50,117): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\Player.cpp(50,104): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  RectangleCollider.cpp
+  Compiling...
+  Renderer.cpp
+  Rigidbody.cpp
+  Scene.cpp
+  SpriteRenderer.cpp
+  TextRenderer.cpp
+  Time.cpp
+  UI_Image.cpp
+  UI_Object.cpp
+  UI_Text.cpp
+  Wall.cpp
+  Weapon.cpp
+  Generating code
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\CollisionDetection.cpp(32): warning C4715: 'DetectRayCollision': not all control paths return a value
+  1075 of 1091 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ETG.vcxproj -> F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\ETG.exe

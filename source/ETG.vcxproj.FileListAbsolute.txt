@@ -1,0 +1,2 @@
+F:\Aibat\Projects\VisualStudio\SFMLProject\ETG\ETG.exe
+F:\Aibat\Projects\VisualStudio\SFMLProject\TDS\source\ETG.exe
