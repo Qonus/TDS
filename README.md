@@ -3,6 +3,10 @@ C++, sfml
 
 Inputs
 
+        // In Menu
+        Press [Space] to start or resume the game
+
+        // In Game
         [W] [A] [S] [D] to Move
         [Left Mouse Button] to Shoot
 
@@ -11,7 +15,7 @@ Inputs
 
         Press numbers from [1] to [4] to change the weapon
 
-        [Esc] to Close Window
+        [Esc] to pause the game and go to the main menu
 
         // Debug
         [F1] to Set FPS Limit to 10 FPS
