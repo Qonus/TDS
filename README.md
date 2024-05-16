@@ -9,6 +9,8 @@ Inputs
         Scroll Mouse Wheel to Zoom in and out
         Move Mouse to Look Around
 
+        Press numbers from [1] to [4] to change the weapon
+
         [Esc] to Close Window
 
         // Debug
