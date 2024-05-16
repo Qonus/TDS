@@ -2,6 +2,10 @@
 Examination project for Step Academy
 C++, sfml
 
+Launching instructions:
+- download/clone project
+- run TDS/source/ETG.exe
+
 Controls:
 
         // In Menu
