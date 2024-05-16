@@ -1,4 +1,5 @@
 # TDS
+Examination project for Step Academy
 C++, sfml
 
 Controls:
